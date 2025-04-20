@@ -17,10 +17,8 @@ A Node.js tool for deobfuscating JavaScript code by replacing array-based variab
 git clone https://github.com/yourusername/js-array-deobfuscator.git
 
 # Navigate to the project directory
-cd javascript-deobfuscator
+cd js-array-deobfuscator
 
-# Install dependencies
-npm install
 ```
 
 ## Usage
