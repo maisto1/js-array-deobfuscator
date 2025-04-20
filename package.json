@@ -1,0 +1,13 @@
+{
+  "name": "javascript-deobfuscator",
+  "version": "1.0.0",
+  "description": "Tool for deobfuscating JavaScript code with array-based obfuscation",
+  "main": "src/deobfuscator.js",
+  "scripts": {
+    "start": "node src/deobfuscator.js"
+  },
+  "keywords": ["javascript", "deobfuscator", "security"],
+  "author": "maisto",
+  "license": "MIT",
+  "type": "module"
+}
