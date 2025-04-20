@@ -71,10 +71,6 @@ After:
 console['log']('Hello' + ' ' + 'World');
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Inspired by the need to analyze obfuscated JavaScript malware
